@@ -34,11 +34,11 @@ Para instalar esta aplicação deve-se obter inicialmente o vagrant e o virtual 
 Então o primeiro passo consiste em copiar o projeto através do comando:
 
 ```
-$ git clone url
+$ git clone https://github.com/KelvinRomero/WatchServerMan
 ```
 
 Toda a configuração do servidor será feita através do Vagrantfile. Basta executar o comando abaixo:
-
+Ainda existem depedências de pacotes. Versão do php desatualizada!
 ```
 $ vagrant up
 ```
